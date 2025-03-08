@@ -4,7 +4,7 @@
 <br>
 <p>Esse foi o primeiro projeto que fiz com o <b>Rodolfomori</b> e sim é simples mais feito com muita dedicação e esforço para o começo do estudos.
   E estou caminhado rumo as próximas etapas e que vão vim novos conhecimentos.
-  E por ai vai tambem este é um projeto responcivo que é para computadores em geral e para android.</p>
+  E por ai vai tambem este é um projeto que é para computadores Notbook etc... .</p>
 <div style="display: inline_block">
   <br>
   <h3><b>!Tecnologias usadas são essas!</b></h3>  👇
